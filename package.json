@@ -1,7 +1,7 @@
 {
   "name": "bw-app-8-1774961929",
   "version": "1.0.0",
-  "description": "Arctic Circuit monochrome ops dashboard",
+  "description": "Obsidian Grid monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"

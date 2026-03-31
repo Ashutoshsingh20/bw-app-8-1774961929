@@ -1,4 +1,4 @@
-# Arctic Circuit
+# Obsidian Grid
 
 Monochrome light-themed ops dashboard with Express API and static UI.
 
